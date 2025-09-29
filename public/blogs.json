@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Building Scalable APIs with FastAPI and Docker",
+      "description": "A comprehensive guide to creating production-ready APIs using FastAPI, including containerization, authentication, and deployment strategies.",
+      "date": "2024-12-15",
+      "readTime": "8 min read",
+      "category": "Backend Development",
+      "tags": ["FastAPI", "Docker", "Python", "API"],
+      "slug": "building-scalable-apis-fastapi-docker"
+    },
+    {
+      "id": 2,
+      "title": "Computer Vision with OpenCV and PyTorch",
+      "description": "Exploring real-time object detection and tracking techniques, from basic image processing to advanced deep learning models.",
+      "date": "2024-11-28",
+      "readTime": "12 min read",
+      "category": "AI/ML",
+      "tags": ["OpenCV", "PyTorch", "Computer Vision", "Deep Learning"],
+      "slug": "computer-vision-opencv-pytorch"
+    },
+    {
+      "id": 3,
+      "title": "Full-Stack Development Best Practices",
+      "description": "Lessons learned from building full-stack applications with Django, PostgreSQL, and modern frontend frameworks.",
+      "date": "2024-11-10",
+      "readTime": "6 min read",
+      "category": "Web Development",
+      "tags": ["Django", "PostgreSQL", "Full-Stack", "Best Practices"],
+      "slug": "fullstack-development-best-practices"
+    },
+    {
+      "id": 4,
+      "title": "Microservices Architecture with Python",
+      "description": "Design patterns and implementation strategies for building scalable microservices using Python and modern tools.",
+      "date": "2024-10-22",
+      "readTime": "10 min read",
+      "category": "Architecture",
+      "tags": ["Microservices", "Python", "Architecture", "Scalability"],
+      "slug": "microservices-architecture-python"
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning Model Deployment Strategies",
+      "description": "Comprehensive guide to deploying ML models in production, covering containerization, monitoring, and scaling.",
+      "date": "2024-10-05",
+      "readTime": "15 min read",
+      "category": "AI/ML",
+      "tags": ["Machine Learning", "Deployment", "MLOps", "Production"],
+      "slug": "ml-model-deployment-strategies"
+    },
+    {
+      "id": 6,
+      "title": "Modern Frontend Development with React and TypeScript",
+      "description": "Building maintainable and scalable frontend applications using React, TypeScript, and modern development practices.",
+      "date": "2024-09-18",
+      "readTime": "9 min read",
+      "category": "Frontend Development",
+      "tags": ["React", "TypeScript", "Frontend", "JavaScript"],
+      "slug": "modern-frontend-react-typescript"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "django": [
+    {
+      "id": 1,
+      "title": "Deep Learning for Tea Leaf Disease Detection: Comparing VGG16, Vision Transformer,EfficientNetB3, and Xception",
+      "tech": ["CNN", "Transfer learning ","Transformer"],
+      "details": [
+        "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+        "DOI: 10.1109/icccnt61001.2024.10726203",
+        "IEEE Xplore"
+      ],
+      "github": "https://github.com/rahat/student-management",
+      "live": "http://dx.doi.org/10.1109/icccnt61001.2024.10726203"
+    },
+    {
+      "id": 2,
+      "title": "Automated Rice Variety Classification Using CNN and SHAP Interpretability: A Study on Bangladeshi Rice Seeds",
+      "tech": ["CNN", "Transfer learning", "XAI","OpenCV"],
+      "details": [
+        "3rd International Conference on Big Data, IoT and Machine Learning(BIM 2025)",
+        "DOI: It will be updated soon",
+        "Springer Lecture Notes in Networks and Systems"
+      ],
+      "github": "https://github.com/rahat/student-management",
+      "live": "https://github.com/rahat/student-management"
+    },
+    {
+      "id": 3,
+      "title": "A Comparative Analysis of CNN Architectures for Peripheral Blood Cell Classification: TheCase Against Transfer Learning",
+      "tech": ["DCNN", "Transfer learning ","OpenCV"],
+      "details": [
+        "3rd International Conference on Big Data, IoT and Machine Learning(BIM 2025)",
+        "DOI: It will be updated soon",
+        "Taylor and Francis Books"
+        
+       
+      ],
+      "github": "https://github.com/rahat/student-management",
+      "live": "https://github.com/rahat/student-management"
+    }
+  ],
+  "fastapi": [
+    {
+      "id": 4,
+      "title": "Sunflower Growth Stage Image Dataset for Phenological Classification",
+      "tech": ["Camera"],
+      "details": [
+        
+        
+      ],
+      "github": "https://data.mendeley.com/datasets/byftmdzg4g/2",
+      "live": "https://data.mendeley.com/datasets/byftmdzg4g/2"
+    },
+    {
+      "id": 5,
+      "title": "BDLitchi: A Field-Collected Bangladeshi Litchi Leaf Disease Dataset for Deep Learning-Based Detection and Classification",
+      "tech": ["Camera"],
+      "details": [
+        
+      ],
+      "github": "https://data.mendeley.com/datasets/jhb24mszdk/1",
+      "live": "https://data.mendeley.com/datasets/jhb24mszdk/1"
+    },
+    {
+      "id": 6,
+      "title": "Ash Gourd Leaf Condition Dataset (AGLCD-2025): A High-Resolution Benchmark for Multi-Class Leaf Disease Classification",
+      "tech": ["Camera"],
+      "details": [
+       
+      ],
+      "github": "https://data.mendeley.com/datasets/jxgxc52j47/1",
+      "live": "https://data.mendeley.com/datasets/jxgxc52j47/1"
+    }
+  ],
+  "ai": [
+    {
+      "id": 7,
+      "title": "News Topic Classifier",
+      "tech": ["Python", "scikit-learn", "PyTorch", "FastAPI", "PostgreSQL"],
+      "details": [
+        "Developed full ML pipeline with dataset & model versioning.",
+        "Exposed REST API with validation and rate-limiting.",
+        "Achieved F1: 0.92 on holdout set; throughput 150 req/s."
+      ],
+      "github": "https://github.com/rahat/news-classifier",
+      "live": "https://news-classifier-demo.com"
+    },
+    {
+      "id": 8,
+      "title": "Sentiment Analysis Dashboard",
+      "tech": ["Python", "Transformers", "Streamlit", "MongoDB", "Docker"],
+      "details": [
+        "Built real-time sentiment analysis for social media data.",
+        "Implemented BERT-based model with custom fine-tuning.",
+        "Created interactive dashboard with data visualization."
+      ],
+      "github": "https://github.com/rahat/sentiment-dashboard",
+      "live": "https://sentiment-demo.com"
+    },
+    {
+      "id": 9,
+      "title": "Computer Vision Pipeline",
+      "tech": ["Python", "OpenCV", "TensorFlow", "Flask", "AWS"],
+      "details": [
+        "Developed end-to-end image processing pipeline for quality control.",
+        "Implemented custom CNN architecture for defect detection.",
+        "Deployed on AWS with auto-scaling and batch processing."
+      ],
+      "github": "https://github.com/rahat/cv-pipeline",
+      "live": "https://cv-pipeline-demo.com"
+    }
+  ],
+  "others": [
+    {
+      "id": 10,
+      "title": "React Native Mobile App",
+      "tech": ["React Native", "TypeScript", "Firebase", "Redux"],
+      "details": [
+        "Built cross-platform mobile app with offline-first architecture.",
+        "Implemented push notifications and real-time chat features.",
+        "Added biometric authentication and secure data storage."
+      ],
+      "github": "https://github.com/rahat/mobile-app",
+      "live": "https://play.google.com/store/apps/details?id=com.rahat.app"
+    },
+    {
+      "id": 11,
+      "title": "DevOps Automation Tools",
+      "tech": ["Python", "Terraform", "Ansible", "AWS", "Jenkins"],
+      "details": [
+        "Created infrastructure automation scripts for cloud deployment.",
+        "Implemented CI/CD pipelines with automated testing and deployment.",
+        "Built monitoring and alerting system with custom dashboards."
+      ],
+      "github": "https://github.com/rahat/devops-tools",
+      "live": "https://devops-tools-demo.com"
+    },
+    {
+      "id": 12,
+      "title": "Blockchain Voting System",
+      "tech": ["Solidity", "Web3.js", "React", "Ethereum", "IPFS"],
+      "details": [
+        "Developed secure voting system using smart contracts.",
+        "Implemented decentralized storage for vote records on IPFS.",
+        "Built user-friendly web interface for voter registration and voting."
+      ],
+      "github": "https://github.com/rahat/blockchain-voting",
+      "live": "https://voting-demo.com"
+    }
+  ]
+}
