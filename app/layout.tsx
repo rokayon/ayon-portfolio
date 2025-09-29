@@ -11,20 +11,16 @@ export const metadata: Metadata = {
   description:
     "Full-Stack Software Engineer specializing in Python, AI/ML, and scalable web applications. Building production-ready APIs and intelligent solutions.",
   keywords: [
-    "Full-Stack Developer",
     "Python",
     "AI/ML",
-    "FastAPI",
-    "Django",
-    "Software Engineer",
     "Bangladesh",
   ],
-  authors: [{ name: "Abdullah Al Rahat" }],
-  creator: "Abdullah Al Rahat",
+  authors: [{ name: "Rokonozzaman Ayon" }],
+  creator: "Rokonozzaman Ayon",
   openGraph: {
-    title: "Abdullah Al Rahat - Full-Stack Software Engineer",
+    title: "Rokonozzaman Ayon - AI & Computer Vision Researcher | ML & DL Enthusiast|",
     description:
-      "Full-Stack Software Engineer specializing in Python, AI/ML, and scalable web applications.",
+      "AI & Computer Vision Researcher | ML & DL Enthusiast|",
     type: "website",
     locale: "en_US",
   },
